@@ -1,1 +1,4 @@
-# ai-aerospace-tutor
+pandas
+numpy
+openai
+PyPDF2
